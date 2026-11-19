@@ -1,0 +1,15 @@
+# Dependências e compilação do Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Gravações e quadros temporários
+frontend/frames/
+frontend/frames_tiktok/
+scripts/audio_parts/
+scripts/audio_tiktok_parts/
+media/elevenlabs_temp/
+*.wav
+
+# Logs do sistema
+*.log
